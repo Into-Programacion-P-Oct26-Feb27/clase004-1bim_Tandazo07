@@ -11,11 +11,11 @@ package ejemplo01;
 public class Ejemplo09 {
     public static void main(String[] args) {
         String titulo = "Introduccion a Java";
-        String autor = "Jason Tandazo";}
-    int anio = 2022;
+        String autor = "Jason Tandazo";
+    int año = 2026;
     boolean disponible = true;
     
-    System.out.printf("Libro: %s\nAutor: %s\nAño: %d%nDisponible: %b%n ") , titulo, autor, año, disponible;
+    System.out.printf("Libro: %s%nAutor: %s%nAño: %d%nDisponible: %b%n " , titulo, autor, año, disponible);
     }
 
 }
