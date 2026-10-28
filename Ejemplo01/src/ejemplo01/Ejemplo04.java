@@ -20,3 +20,4 @@ public class Ejemplo04 {
         System.out.print(nombreEstudiante);
     }
 }
+// El "System.out.print sirve para presentar la información en una sola línea 
